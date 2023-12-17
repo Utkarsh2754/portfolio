@@ -1,0 +1,137 @@
+#header {
+    padding: 50px;
+    text-align: center;
+    background: #b58863;
+    color: black;
+    font-size: 20px;
+    font-family: arial ;
+  }
+
+#education
+{
+  font-size: 30px;
+  color:black;
+  text-align: center;
+  font-family: arial;
+}
+
+#killa
+{
+  font-size: 30px;
+  color:black;
+  text-align: center;
+  font-family: arial;
+}
+
+#edu
+{
+  display: flex;
+  padding: 50px;
+  text-align: center;
+  background: white;
+  color: black;
+  font-size: 20px;
+  flex-direction: row;
+  justify-content: space-between;
+}  
+
+#skills
+{
+  display: flex;
+  padding: 50px;
+  text-align: center;
+  background: white;
+  color: black;
+  font-size: 20px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#prof
+{
+  font-size: 30px;
+  color:black;
+  text-align: center;
+  font-family: arial; 
+}
+
+#profile
+{
+  display: flex;
+  padding: 50px;
+  text-align: center;
+  background: white;
+  color: black;
+  font-size: 20px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#cam
+{
+  width: 320px;
+  height: 150px;
+  padding: 10px;
+  border: 5px solid gray;
+  object-fit: fill;
+}
+
+#man
+{
+  width: 320px;
+  height: 150px;
+  padding: 10px;
+  border: 5px solid gray;
+  object-fit: fill;
+}
+
+#manit
+{
+  width: 320px;
+  height: 150px;
+  padding: 10px;
+  border: 5px solid gray;
+  align-content: center;
+}
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #3d4d55;
+  color: white;
+}
+
+#call
+{
+  font-size: 20px;
+  color:black;
+  font-family:'Courier New'; 
+}
+
+footer {
+  text-align: left;
+  padding: 3px;
+  background-color: #b58863;
+  color: white;
+  font-family: 'Courier New';
+}
